@@ -1,5 +1,11 @@
 # 阿里云OSS
 
+## DEPRECATED
+
+阿里云官方已打包 [aliyuncs/oss-sdk-php](https://packagist.org/packages/aliyuncs/oss-sdk-php)，此仓库废弃
+
+-----
+
 阿里云OSS官方PHP SDK的Composer封装
 
 * 基于[官方PHP SDK开发包(2014-06-25)](http://docs.aliyun.com/?spm=5176.383663.9.7.WhuzGU#/oss/sdk/sdk-download&php)
